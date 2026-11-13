@@ -1,0 +1,6 @@
+{
+  "name": "Café 007 Mart | Fast Food, Pizza & Reservations",
+  "description": "Order online from Café 007 Mart Burewala. Explore 100+ pizzas, burgers, wraps, fast food deals, book reservations, and order directly via WhatsApp with live tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
